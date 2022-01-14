@@ -172,24 +172,24 @@ section {
     font-size: large;
 }
 
-.message {
+/* .message {
     background-color: rgb(112, 112, 112);
     color: white;
     padding: 3% 4%;
     border-radius: 2%;
-}
+} */
 
-.form-title {
+/* .form-title {
     text-align: center;
     padding: 2% 0;
     font-size: 20px;
     font-weight: bold;
-}
+} */
 
-.form-rows {
+/* .form-rows {
     margin-bottom: 2%;
     background-color: rgb(233, 233, 233);
-}
+} */
 
 
 
