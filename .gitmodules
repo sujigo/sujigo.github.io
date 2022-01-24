@@ -1,6 +1,0 @@
-[submodule "memory-match"]
-	path = memory-match
-	url = https://github.com/sujigo/memory-match
-[submodule "catch-words"]
-	path = catch-words
-	url = https://github.com/sujigo/catch-words
